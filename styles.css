@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.container2 {
+  width: 1200px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center; 
+}
+
+.none {
+  text-decoration: none;
+  color: white;
+}
+
+.enca{
+  background-color: blueviolet;
+}
+
+
+.total{
+  width: 100%;
+}
+
+.user{
+ width: 10%; 
+}
